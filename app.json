@@ -1,0 +1,16 @@
+{
+  "expo": {
+   "name": "SmarTip",
+   "description": "Calculate tips easily.",
+   "icon": "./icon.png",
+   "version": "1.0.0",
+   "slug": "smartip",
+   "sdkVersion": "27.0.0",
+   "ios": {
+     "bundleIdentifier": "guillaumehaben.github.io"
+   },
+   "android": {
+     "package": "guillaumehaben.github.io"
+   }
+  }
+}
